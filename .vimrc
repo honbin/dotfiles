@@ -1,0 +1,12 @@
+source ~/.vim/basic.vimrc
+source ~/.vim/status_line.vimrc
+source ~/.vim/appearance.vimrc
+source ~/.vim/indent.vimrc
+source ~/.vim/complete.vimrc
+source ~/.vim/tags.vimrc
+source ~/.vim/move.vimrc
+source ~/.vim/encoding.vimrc
+source ~/.vim/colors.vimrc
+source ~/.vim/edit.vimrc
+source ~/.vim/plugin.vimrc
+source ~/.vim/etc.vimrc
