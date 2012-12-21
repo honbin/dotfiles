@@ -27,6 +27,10 @@ Bundle 'thinca/vim-qfreplace'
 Bundle 'houtsnip/vim-emacscommandline'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'vim-scripts/yanktmp.vim'
+Bundle 'kana/vim-textobj-user'
+Bundle 'rhysd/unite-ruby-require.vim'
+Bundle 'rhysd/neco-ruby-keyword-args'
+Bundle 'rhysd/vim-textobj-ruby'
 
 autocmd FileType python let g:pydiction_location = '~/.vim/pydiction/complete-dict'
 
